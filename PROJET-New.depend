@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1706189405 source:z:\s102-c++\projet-new\imagenew.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"imageNew.h"
+
+1706187689 z:\s102-c++\projet-new\imagenew.h
+	<vector>
+	<fstream>
+	<string>
+
+1705517990 source:z:\s102-c++\projet-new\mainnew.cpp
+	<iostream>
+	"imageNew.h"
+	<fstream>
+	"menuNew.h"
+	<vector>
+
+1705517997 z:\s102-c++\projet-new\menunew.h
+	<vector>
+	<string>
+	"imageNew.h"
+
+1706189893 source:z:\s102-c++\projet-new\menunew.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"menuNew.h"
+
+1705518069 source:c:\users\0shep\nextcloud\z_sidious\s102-c++\projet-new\mainnew.cpp
+	<iostream>
+	"imageNew.h"
+	<fstream>
+	"menuNew.h"
+	<vector>
+
+1705518130 c:\users\0shep\nextcloud\z_sidious\s102-c++\projet-new\imagenew.h
+	<vector>
+	<fstream>
+	<string>
+
+1705518075 c:\users\0shep\nextcloud\z_sidious\s102-c++\projet-new\menunew.h
+	<vector>
+	<string>
+	"imageNew.h"
+
+1705518069 source:c:\users\0shep\nextcloud\z_sidious\s102-c++\projet-new\imagenew.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"imageNew.h"
+
+1705518069 source:c:\users\0shep\nextcloud\z_sidious\s102-c++\projet-new\menunew.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"menuNew.h"
+
+1705518069 source:c:\users\halim\nextcloud\z_sidious\s102-c++\projet-new\mainnew.cpp
+	<iostream>
+	"imageNew.h"
+	<fstream>
+	"menuNew.h"
+	<vector>
+
+1706187689 c:\users\halim\nextcloud\z_sidious\s102-c++\projet-new\imagenew.h
+	<vector>
+	<fstream>
+	<string>
+
+1705518075 c:\users\halim\nextcloud\z_sidious\s102-c++\projet-new\menunew.h
+	<vector>
+	<string>
+	"imageNew.h"
+
+1706189893 source:c:\users\halim\nextcloud\z_sidious\s102-c++\projet-new\menunew.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	"menuNew.h"
+
